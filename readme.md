@@ -44,8 +44,9 @@ Type inferred syntax (preferred)
 > Note: we have `const` in go. but that is used more like *enums* and for hardcoded values
 > const ENV="prod"
 
-### Types and its default values 
 ```
+### Types and its default values 
+
 var integerNumber = 1;  // 0 
 var floatNumber = 1.01; // 0
 var string = "asf" // ""
